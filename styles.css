@@ -31,11 +31,16 @@
 }
 
 .forgot-password {
-    margin-left: 183px;
+    margin-left: 174px;
     text-align: right;
-    font-size: 16px;
+    font-size: 17px;
     text-decoration: none;
-    color: rgb(0, 119, 255)
+    color: rgb(0, 119, 255);
+    opacity: .7;
+}
+
+.forgot-password:hover {
+    color: blue;
 }
 
 #login-button {
@@ -61,6 +66,10 @@
 #agreement a {
     text-decoration: none;
     color: rgb(0, 119, 255)
+}
+
+#agreement a:hover {
+    color: blue;
 }
 
 #check-box {
