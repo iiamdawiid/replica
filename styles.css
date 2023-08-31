@@ -45,6 +45,7 @@
     background: linear-gradient(to top, goldenrod, rgb(230, 220, 150));
     font-size: 20px;
     cursor: pointer;
+    border: 1px solid black;
 }
 
 #login-button:hover {
@@ -100,6 +101,7 @@ input.check-box-bigger {
     font-size: 20px;
     cursor: pointer;
     background: linear-gradient(to top, rgb(163, 164, 165), rgb(237, 235, 235));
+    border: 1px solid black;
 }
 
 #create-your-account:hover {
